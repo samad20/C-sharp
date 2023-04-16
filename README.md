@@ -1,2 +1,2 @@
-# c_sharp
-my personal notes for learning c#
+# c#
+My personal notes for learning c#
